@@ -1,7 +1,8 @@
+# Locators for Home and Search page of Google
+
+
 class Locator(object):
 
-
-    # Locator for Logo
     logo = "//img[@id='hplogo']"
 
     # Locator for Search field

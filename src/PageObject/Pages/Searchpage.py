@@ -6,19 +6,24 @@ import selenium.webdriver.support.ui as ui
 from src.PageObject.Locators import Locator
 from selenium.webdriver.common.by import By
 
+# Search Page Objects
+
 
 class Search(object):
 
     def __init__(context, driver):
         context.driver = driver
 
+# To find if the Timetaken element present or not
     def srchblank(context):
         try:
             context.timeTaken = context.driver.find_element(By.XPATH, Locator.timeTaken)
 
         except NoSuchElementException:
-            print("Search not performed")
+            print("\n Search not performed")
 
+
+# To find the Count of Results  for successful search
     @property
     def srchtext(context):
        try:
@@ -26,6 +31,6 @@ class Search(object):
             srchresults = context.driver.find_elements(By.CSS_SELECTOR, Locator.srchresults)
             return len(srchresults)
        except TimeoutException:
-           print("Search not performed")
+           print("\n Search not performed")
 
 
