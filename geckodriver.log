@@ -1,0 +1,592 @@
+1542224665563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.YeNEr6LimIQq"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542224669430	Marionette	INFO	Listening on port 50821
+1542224669489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542224675748	Marionette	INFO	Stopped listening on port 50821
+1542224731066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.I8sMXLdKGITx"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542224734886	Marionette	INFO	Listening on port 50879
+1542224735054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542224735207	Marionette	INFO	Stopped listening on port 50879
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+1542225033837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.6tngjOknvnEX"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542225036649	Marionette	INFO	Listening on port 50934
+1542225036776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542225039233	Marionette	INFO	Stopped listening on port 50934
+1542236985700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.PWs4baVoFo6U"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542236988413	Marionette	INFO	Listening on port 51095
+1542236988485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542236988571	Marionette	INFO	Stopped listening on port 51095
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 197: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+1542237006895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.lMnlW4aywcBB"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542237009525	Marionette	INFO	Listening on port 51135
+1542237009621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542237009771	Marionette	INFO	Stopped listening on port 51135
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+1542237029706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.vxkf8D9ebXbm"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542237032531	Marionette	INFO	Listening on port 51174
+1542237032611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542237035169	Marionette	INFO	Stopped listening on port 51174
+1542237296132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.cJ5qJCJ5rbjS"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542237298806	Marionette	INFO	Listening on port 51232
+1542237298829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542237301169	Marionette	INFO	Stopped listening on port 51232
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1542237392440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.kH6GmqAvyEZp"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542237395010	Marionette	INFO	Listening on port 51283
+1542237395020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542237397450	Marionette	INFO	Stopped listening on port 51283
+JavaScript error: /_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en._q9j7w_CqJ4.O/am=Ag/rt=j/d=1/excm=appwidgetnoauthview,_b,_tp/ed=1/dg=0/rs=AM-SdHvUvTb_wnJZBBwTj9Xa-n_2BjYfXg/m=_b,_tp, line 259: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en._q9j7w_CqJ4.O/am=Ag/rt=j/d=1/excm=appwidgetnoauthview,_b,_tp/ed=1/dg=0/rs=AM-SdHvUvTb_wnJZBBwTj9Xa-n_2BjYfXg/m=_b,_tp, line 259: NS_ERROR_NOT_INITIALIZED: 
+1542247468787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.Q9CB4p2bL3v2"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542247472795	Marionette	INFO	Listening on port 51377
+1542247472847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542247475524	Marionette	INFO	Stopped listening on port 51377
+1542247492482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.KSyoaM86veMJ"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542247496051	Marionette	INFO	Listening on port 51443
+1542247496107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542247509134	Marionette	INFO	Stopped listening on port 51443
+1542247756493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.8AhzjPHai9U5"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542247759862	Marionette	INFO	Listening on port 51883
+1542247759910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542247761639	Marionette	INFO	Stopped listening on port 51883
+1542247787385	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.DWkzyO27LgTI"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542247790392	Marionette	INFO	Listening on port 52063
+1542247790407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542247803800	Marionette	INFO	Stopped listening on port 52063
+1542284685608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.hwA466fwXmL5"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542284688400	Marionette	INFO	Listening on port 56064
+1542284688528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542284700970	Marionette	INFO	Stopped listening on port 56064
+1542284759824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.0i3Z6HYxmNOz"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542284762360	Marionette	INFO	Listening on port 56413
+1542284762409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542284764762	Marionette	INFO	Stopped listening on port 56413
+1542284783319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.2L47YodE7hUo"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542284785918	Marionette	INFO	Listening on port 56555
+1542284786008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542284798267	Marionette	INFO	Stopped listening on port 56555
+1542284820770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.5Ah5lE7xELfN"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542284823355	Marionette	INFO	Listening on port 56755
+1542284823460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542284826111	Marionette	INFO	Stopped listening on port 56755
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542285374957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ZZTJzlyNVy9o"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285378450	Marionette	INFO	Listening on port 59019
+1542285378497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285391086	Marionette	INFO	Stopped listening on port 59019
+1542285546110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.RPLdbmejXyf5"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285548665	Marionette	INFO	Listening on port 59759
+1542285548695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285561270	Marionette	INFO	Stopped listening on port 59759
+1542285715582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.4NQuRKBKOrhW"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285718188	Marionette	INFO	Listening on port 60477
+1542285718272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285730538	Marionette	INFO	Stopped listening on port 60477
+1542285757797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.LEwms1aVaDZV"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285760410	Marionette	INFO	Listening on port 60697
+1542285760516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285773037	Marionette	INFO	Stopped listening on port 60697
+1542285784863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.sqenRpA1laEy"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285787622	Marionette	INFO	Listening on port 60861
+1542285787732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285790210	Marionette	INFO	Stopped listening on port 60861
+1542285878054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.nqX5vJNR89hg"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285880638	Marionette	INFO	Listening on port 60930
+1542285880752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285883342	Marionette	INFO	Stopped listening on port 60930
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542285970585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.a4uTZ8yCWx7r"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542285973117	Marionette	INFO	Listening on port 60982
+1542285973168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542285986975	Marionette	INFO	Stopped listening on port 60982
+1542286051251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.SN84m9dIdgj4"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286053790	Marionette	INFO	Listening on port 61037
+1542286053840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286066204	Marionette	INFO	Stopped listening on port 61037
+1542286585196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.BwnhRjOlH2Cx"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286587969	Marionette	INFO	Listening on port 61096
+1542286588074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286600471	Marionette	INFO	Stopped listening on port 61096
+1542286624830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.h6ezPPNZMUMW"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286627336	Marionette	INFO	Listening on port 61149
+1542286627424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286639817	Marionette	INFO	Stopped listening on port 61149
+1542286683312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ozGEFPvheSaB"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286685771	Marionette	INFO	Listening on port 61199
+1542286685800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286698159	Marionette	INFO	Stopped listening on port 61199
+1542286721169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.Mz4khjaULWln"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286723619	Marionette	INFO	Listening on port 61248
+1542286723652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286736046	Marionette	INFO	Stopped listening on port 61248
+1542286812103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ezaam5Rx9fdz"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286814698	Marionette	INFO	Listening on port 61297
+1542286814800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286817374	Marionette	INFO	Stopped listening on port 61297
+1542286857820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.VIKFk0YkrjEX"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286861192	Marionette	INFO	Listening on port 61348
+1542286861242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286864206	Marionette	INFO	Stopped listening on port 61348
+1542286929225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.yK43GdyL0ceI"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542286931772	Marionette	INFO	Listening on port 61409
+1542286931820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542286934407	Marionette	INFO	Stopped listening on port 61409
+1542287176097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.62Z7oprJOoQs"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287178565	Marionette	INFO	Listening on port 61459
+1542287178645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287181069	Marionette	INFO	Stopped listening on port 61459
+1542287300250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.SnDcuxjMRFCM"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287302818	Marionette	INFO	Listening on port 61509
+1542287302855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287305184	Marionette	INFO	Stopped listening on port 61509
+1542287320501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.2SYRK7MJjYaa"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287322943	Marionette	INFO	Listening on port 61560
+1542287323002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287325686	Marionette	INFO	Stopped listening on port 61560
+1542287338283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.vUdTC8mlkPE8"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287340916	Marionette	INFO	Listening on port 61609
+1542287340959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287344565	Marionette	INFO	Stopped listening on port 61609
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542287578628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.01jldZ2RP2iV"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287581402	Marionette	INFO	Listening on port 61660
+1542287581411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287583883	Marionette	INFO	Stopped listening on port 61660
+1542287955607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.fvLayGNn9EnE"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287958083	Marionette	INFO	Listening on port 61714
+1542287958111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287960737	Marionette	INFO	Stopped listening on port 61714
+1542287975659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.UWHHOcuO3GCY"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542287978146	Marionette	INFO	Listening on port 61763
+1542287978271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542287980686	Marionette	INFO	Stopped listening on port 61763
+1542288014654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.FMSqPG6lJH3r"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288017369	Marionette	INFO	Listening on port 61814
+1542288017481	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542288125196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.yLmUfIy2EkGM"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288127655	Marionette	INFO	Listening on port 61873
+1542288127754	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542288221618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.rEXbCjUc4by4"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288224432	Marionette	INFO	Listening on port 61929
+1542288224512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288246419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.7z3e4aKV9iU9"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288251146	Marionette	INFO	Stopped listening on port 61873
+1542288251393	Marionette	INFO	Listening on port 61984
+1542288251485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288252805	Marionette	INFO	Stopped listening on port 61929
+1542288254480	Marionette	INFO	Stopped listening on port 61814
+1542288288373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ceTaLWD9sT7d"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288291264	Marionette	INFO	Listening on port 62060
+1542288291415	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542288478226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.aH2Jg4WSYdR7"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288481073	Marionette	INFO	Listening on port 62123
+1542288481110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288525850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.DKOpsV4LJtCj"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288528472	Marionette	INFO	Listening on port 62180
+1542288528591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288562747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.R8NQ57UVwaaH"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288567091	Marionette	INFO	Listening on port 62235
+1542288567148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288618364	Marionette	INFO	Stopped listening on port 61984
+1542288622085	Marionette	INFO	Stopped listening on port 62060
+1542288624200	Marionette	INFO	Stopped listening on port 62123
+1542288626207	Marionette	INFO	Stopped listening on port 62180
+1542288628477	Marionette	INFO	Stopped listening on port 62235
+1542288630875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.w6ts1jlcM4fb"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288633409	Marionette	INFO	Listening on port 62305
+1542288633477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288636050	Marionette	INFO	Stopped listening on port 62305
+1542288770237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.HdwZsAX85Nb9"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288773008	Marionette	INFO	Listening on port 62358
+1542288773113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288785756	Marionette	INFO	Stopped listening on port 62358
+1542288801661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.tOHcnbk3O1Qh"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542288804136	Marionette	INFO	Listening on port 62412
+1542288804235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542288816748	Marionette	INFO	Stopped listening on port 62412
+1542289142305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.px9a6oYr7BTr"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542289144928	Marionette	INFO	Listening on port 62463
+1542289144968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542289198057	Marionette	INFO	Stopped listening on port 62463
+1542290348525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.C8kHKDP4YHYH"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542290352089	Marionette	INFO	Listening on port 62518
+1542290352137	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542290405618	Marionette	INFO	Stopped listening on port 62518
+1542290748676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.2dUnHzxxLGd0"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542290751260	Marionette	INFO	Listening on port 62582
+1542290751348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542290763947	Marionette	INFO	Stopped listening on port 62582
+1542290937644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.gUaoj9PCWMDU"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542290940662	Marionette	INFO	Listening on port 62633
+1542290940813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542290953339	Marionette	INFO	Stopped listening on port 62633
+1542291045666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.TJNuH5v2yicU"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291048176	Marionette	INFO	Listening on port 62689
+1542291048250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291050726	Marionette	INFO	Stopped listening on port 62689
+1542291065831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.TIXBoDr9GxDA"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291068477	Marionette	INFO	Listening on port 62739
+1542291068509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291071144	Marionette	INFO	Stopped listening on port 62739
+JavaScript error: /_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en._q9j7w_CqJ4.O/am=Ag/rt=j/d=1/excm=appwidgetnoauthview,_b,_tp/ed=1/dg=0/rs=AM-SdHvUvTb_wnJZBBwTj9Xa-n_2BjYfXg/m=_b,_tp, line 259: NS_ERROR_NOT_INITIALIZED: 
+1542291196368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.P6PNVp6JqLDn"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291198992	Marionette	INFO	Listening on port 62794
+1542291199026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291201585	Marionette	INFO	Stopped listening on port 62794
+1542291255070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.l9OMsNqmujFf"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291258194	Marionette	INFO	Listening on port 62845
+1542291258291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291260878	Marionette	INFO	Stopped listening on port 62845
+1542291392444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.zMeZCGsclYb6"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291395097	Marionette	INFO	Listening on port 62902
+1542291395133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291397763	Marionette	INFO	Stopped listening on port 62902
+1542291895713	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.YfVjweIusJBJ"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542291898599	Marionette	INFO	Listening on port 62956
+1542291898689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542291901366	Marionette	INFO	Stopped listening on port 62956
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542292057983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.XA6wln33uc36"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292061017	Marionette	INFO	Listening on port 63012
+1542292061187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292063836	Marionette	INFO	Stopped listening on port 63012
+1542292130807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.8aDgLeDLjzDY"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292133808	Marionette	INFO	Listening on port 63072
+1542292133927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292136444	Marionette	INFO	Stopped listening on port 63072
+1542292292430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.AoOLfWHRHAwl"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292296067	Marionette	INFO	Listening on port 63128
+1542292296159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292299132	Marionette	INFO	Stopped listening on port 63128
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542292640591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.vEbE1KobrlBB"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292643171	Marionette	INFO	Listening on port 63206
+1542292643303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292645746	Marionette	INFO	Stopped listening on port 63206
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542292769179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.PRGFslvLngKf"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292771877	Marionette	INFO	Listening on port 63260
+1542292771962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292774380	Marionette	INFO	Stopped listening on port 63260
+1542292869536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.HTXaQx3Vo4U0"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542292872100	Marionette	INFO	Listening on port 63312
+1542292872134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542292874657	Marionette	INFO	Stopped listening on port 63312
+1542293082212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.m0spM4nIBRNl"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293085091	Marionette	INFO	Listening on port 63363
+1542293085220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293087985	Marionette	INFO	Stopped listening on port 63363
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542293141868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ov3lPLJeLNrF"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293145123	Marionette	INFO	Listening on port 63417
+1542293145168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293148146	Marionette	INFO	Stopped listening on port 63417
+1542293214164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.HIEeOLlbDBs3"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293216692	Marionette	INFO	Listening on port 63474
+1542293216761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293219598	Marionette	INFO	Stopped listening on port 63474
+1542293253320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.KHeoDdE5g4rz"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293256210	Marionette	INFO	Listening on port 63527
+1542293256314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293259297	Marionette	INFO	Stopped listening on port 63527
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542293296455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.YxEcOlP27t3a"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293299439	Marionette	INFO	Listening on port 63584
+1542293299480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293302207	Marionette	INFO	Stopped listening on port 63584
+1542293406705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.aurNctU6rPUI"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293409327	Marionette	INFO	Listening on port 63639
+1542293409373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293412144	Marionette	INFO	Stopped listening on port 63639
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542293771889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.Vb78SnZAquU3"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293774388	Marionette	INFO	Listening on port 63692
+1542293774456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293777274	Marionette	INFO	Stopped listening on port 63692
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542293845125	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.UkkGIhkGCs9a"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293847869	Marionette	INFO	Listening on port 63743
+1542293847932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293850724	Marionette	INFO	Stopped listening on port 63743
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1542293926145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.9lcw0GupjrYR"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293928706	Marionette	INFO	Listening on port 63796
+1542293928736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293931510	Marionette	INFO	Stopped listening on port 63796
+1542293950770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.ERKsasT6zB4K"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293953222	Marionette	INFO	Listening on port 63847
+1542293953324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542293961307	Marionette	INFO	Stopped listening on port 63847
+1542293974818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.l7pikGbe0WyF"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542293977387	Marionette	INFO	Listening on port 63897
+1542293977421	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542294010285	Marionette	INFO	Stopped listening on port 63897
+1542294030003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.c1zjp5J3PJQN"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294032614	Marionette	INFO	Listening on port 63948
+1542294032680	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542294066552	Marionette	INFO	Stopped listening on port 63948
+1542294147918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.sJTA2IeRjKAc"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294150690	Marionette	INFO	Listening on port 64002
+1542294150785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294172807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.lRVOkjUFxPMi"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294175353	Marionette	INFO	Listening on port 64055
+1542294175379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542294198326	Marionette	INFO	Stopped listening on port 64055
+1542294224187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.OTFz19yS4nll"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294226837	Marionette	INFO	Listening on port 64109
+1542294226874	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542294297330	Marionette	INFO	Stopped listening on port 64109
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294302832	Marionette	INFO	Stopped listening on port 64002
+1542294306880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.1AQwUoehbQca"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294309299	Marionette	INFO	Listening on port 64162
+1542294309377	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542294380677	Marionette	INFO	Stopped listening on port 64162
+1542294383025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.2VxdCO8goBh4"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294385531	Marionette	INFO	Listening on port 64213
+1542294385603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294410776	Marionette	INFO	Stopped listening on port 64213
+1542294425420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.7hNoXau2MhhL"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294427996	Marionette	INFO	Listening on port 64264
+1542294428105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294442839	Marionette	INFO	Stopped listening on port 64264
+1542294493891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.w7vKH6C9IhHO"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294496318	Marionette	INFO	Listening on port 64317
+1542294496382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294510660	Marionette	INFO	Stopped listening on port 64317
+1542294572062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.qCJH8pxgGj2E"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294574495	Marionette	INFO	Listening on port 64367
+1542294574558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294588105	Marionette	INFO	Stopped listening on port 64367
+1542294641580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.3nHKpbGgevKi"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542294644192	Marionette	INFO	Listening on port 64417
+1542294644264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542294647946	Marionette	INFO	Stopped listening on port 64417
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1542296064762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.wv1F5TwjD6Jj"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542296067394	Marionette	INFO	Listening on port 64491
+1542296067496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542296072100	Marionette	INFO	Stopped listening on port 64491
+1542296148409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.XslPdK9H8clb"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542296151003	Marionette	INFO	Listening on port 64546
+1542296151101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542296154959	Marionette	INFO	Stopped listening on port 64546
+1542296246871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.kpMfSDJQ6IUi"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542296249693	Marionette	INFO	Listening on port 64598
+1542296249775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542296253924	Marionette	INFO	Stopped listening on port 64598
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1542296367440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.FAFdek4nHWhv"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542296370135	Marionette	INFO	Listening on port 64755
+1542296370266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542296375050	Marionette	INFO	Stopped listening on port 64755
+1542296454772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.YAync6tocpmU"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542296457523	Marionette	INFO	Listening on port 64810
+1542296457544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542296463091	Marionette	INFO	Stopped listening on port 64810
+1542299158455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.SXJrs3pz1GbK"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542299161492	Marionette	INFO	Listening on port 65027
+1542299161568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542299165296	Marionette	INFO	Stopped listening on port 65027
+1542299887902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.szuwWPJjLrpC"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542299891142	Marionette	INFO	Listening on port 65528
+1542299891200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542299895190	Marionette	INFO	Stopped listening on port 65528
