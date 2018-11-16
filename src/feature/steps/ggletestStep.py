@@ -10,7 +10,7 @@ from src.PageObject.Pages.Searchpage import Search
 @given('user navigates to homepage of Google "{url}"')
 def step_impl(context, url):
     context.driver.get(url)
-    #context.driver.implicitly_wait(10)
+    # context.driver.implicitly_wait(10)
 
 
 @then("logo should be displayed")
@@ -53,7 +53,7 @@ def step_impl(context):
 @then("Clicking on search button shows results")
 def step_impl(context):
     m5 = Home(context.driver)
-    m5.nosrch()
+    m5.srchtext()
 
     m6 = Search(context.driver)
-    print m6.srchtext
+    print " Search Results size is ", m6.srchtext

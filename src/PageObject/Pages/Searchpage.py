@@ -1,10 +1,10 @@
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
-from selenium import webdriver
 import selenium.webdriver.support.expected_conditions as EC
 import selenium.webdriver.support.ui as ui
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.webdriver.common.by import By
 
 from src.PageObject.Locators import Locator
-from selenium.webdriver.common.by import By
+
 
 # Search Page Objects
 

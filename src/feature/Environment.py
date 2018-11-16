@@ -1,6 +1,7 @@
 from base import browser_chrome
 from base import browser_firefox
 
+
 # Environment variable for running the test
 
 # Executes first when test is run -- Invokes Browser
@@ -20,3 +21,5 @@ def after_all(context):
     if context.driver is not None:
         context.driver.close()
         context.driver.quit()
+
+

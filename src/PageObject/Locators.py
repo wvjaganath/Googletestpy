@@ -16,3 +16,6 @@ class Locator(object):
 
     # Locator for Google Search Results
     srchresults = ".r"
+
+    # Locator for Google Search button when searching with a text
+    ggleBtnsrch = "//div[@class='VlcLAe']//input[@value='Google Search']"
