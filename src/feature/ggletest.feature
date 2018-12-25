@@ -4,7 +4,7 @@
 Feature: Testing of Google Homepage
 
   To check if Logo, Search fields and Search Button are present
-  and to verify if search is performed with/without adding text is search field
+  and to verify if search is performed with/without adding text in search field
 
 Scenario: In order to test Google Homepage
     Given user navigates to homepage of Google "https://www.google.com"

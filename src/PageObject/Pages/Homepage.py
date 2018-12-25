@@ -24,7 +24,7 @@ class Home(object):
 # Added a Try/Catch condition if Google changes the logo name or if Doodle is present
     def getLogo(self):
         try:
-            self.logo = self.driver.find_element(By.XPATH, Locator.logo)
+            self.logo
 
         except NoSuchElementException:
             print("\n Googele Search is not present or has been changed")

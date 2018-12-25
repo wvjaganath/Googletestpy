@@ -673,3 +673,14 @@ JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeErro
 1542384505001	Marionette	INFO	Listening on port 50486
 1542384505053	Marionette	WARN	TLS certificate errors will be ignored for this session
 1542384511822	Marionette	INFO	Stopped listening on port 50486
+1542384785596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.tIF25P6C1OpD"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542384787946	Marionette	INFO	Listening on port 50572
+1542384787978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542384792958	Marionette	INFO	Stopped listening on port 50572
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1543281419756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gz/nn912r0n2q17wxszq_qqr51c0000gn/T/rust_mozprofile.3j9NsgV5D7nB"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1543281427261	Marionette	INFO	Listening on port 49229
+1543281427460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543281433950	Marionette	INFO	Stopped listening on port 49229
